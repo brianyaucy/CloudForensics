@@ -2,6 +2,17 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+## Contents
+
+- [Welcome to MkDocs](#welcome-to-mkdocs)
+  - [Contents](#contents)
+  - [Commands](#commands)
+  - [Project layout](#project-layout)
+- [Test](#test)
+  - [Test 2](#test-2)
+    - [Test 3.1](#test-31)
+    - [Test 3.2](#test-32)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
